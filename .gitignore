@@ -1,0 +1,5 @@
+# make-sub.py 本地生成的交付物（含真实 UUID/链接），不入库
+vless.txt
+sub.yaml
+sub.txt
+qr.png
